@@ -1,2 +1,3 @@
 # PPS-CODE-F.E.
-First year python code.
+First Year Programming and Problem Solving Assignments of SPPU
+
